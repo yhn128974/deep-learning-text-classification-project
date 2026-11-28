@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\YuEth\\anaconda3\\envs\\dl_project\\python.exe",
+  "python.analysis.extraPaths": ["."],
+  "terminal.integrated.env.windows": {
+    "PYTHONPATH": "${workspaceFolder}"
+  },
+  "python.languageServer": "None"
+}
